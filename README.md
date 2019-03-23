@@ -1,0 +1,1 @@
+# how-to-serve-static-files-from-a-jar-file
